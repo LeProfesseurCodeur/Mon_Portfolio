@@ -772,71 +772,41 @@ body.offcanvas {
     top: -22px;
     right: 0; }
   .progress-bar.color-1 {
-    background: #E54B22; }
+    background: #2c98f0; }
     .progress-bar.color-1:after {
-      background: #E54B22; }
+      background: #2c98f0; }
     .progress-bar.color-1 span {
-      color: #E54B22; }
+      color: #2c98f0; }
   .progress-bar.color-2 {
-    background: #379AD6; }
+    background: #ec5453; }
     .progress-bar.color-2:after {
-      background: #379AD6; }
+      background: #ec5453; }
     .progress-bar.color-2 span {
-      color: #379AD6; }
+      color: #ec5453; }
   .progress-bar.color-3 {
-    background: #673AB7; }
+    background: #f9bf3f; }
     .progress-bar.color-3:after {
-      background: #673AB7; }
+      background: #f9bf3f; }
     .progress-bar.color-3 span {
-      color: #673AB7; }
+      color: #f9bf3f; }
   .progress-bar.color-4 {
-    background: #1B75BB; }
+    background: #a84cb8; }
     .progress-bar.color-4:after {
-      background: #1B75BB; }
+      background: #a84cb8; }
     .progress-bar.color-4 span {
-      color: #1B75BB; }
+      color: #a84cb8; }
   .progress-bar.color-5 {
-    background: #F8E017; }
+    background: #2fa499; }
     .progress-bar.color-5:after {
-      background: #F8E017; }
+      background: #2fa499; }
     .progress-bar.color-5 span {
-      color: #F8E017; }
+      color: #2fa499; }
   .progress-bar.color-6 {
-    background: #000000; }
+    background: #4054b2; }
     .progress-bar.color-6:after {
-      background: #000000; }
+      background: #4054b2; }
     .progress-bar.color-6 span {
-      color: #000000; }
-  .progress-bar.color-7 {
-    background: #8993C0; }
-    .progress-bar.color-7:after {
-      background: #8993C0; }
-    .progress-bar.color-7 span {
-      color: #8993C0; }
-  .progress-bar.color-9 {
-    background: #FF6D00; }
-    .progress-bar.color-9:after {
-      background: #FF6D00; }
-    .progress-bar.color-9 span {
-      color: #FF6D00; }
-  .progress-bar.color-10 {
-    background: #DE0A18; }
-    .progress-bar.color-10:after {
-      background: #DE0A18; }
-    .progress-bar.color-10 span {
-      color: #DE0A18; }
-  .progress-bar.color-11 {
-    background: #4BAF50; }
-    .progress-bar.color-11:after {
-      background: #4BAF50; }
-    .progress-bar.color-11 span {
-      color: #4BAF50; }
-  .progress-bar.color-12 {
-    background: #80DEEA; }
-    .progress-bar.color-12:after {
-      background: #80DEEA; }
-    .progress-bar.color-12 span {
-      color: #80DEEA; }
+      color: #4054b2; }
 
 .colorlib-feature {
   text-align: left;
