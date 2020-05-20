@@ -57,7 +57,7 @@
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
-				<div class="author-img" style="background-image: url(images/about.jpg);"></div>
+				<div class="author-img" style="background-image: url(images/about.png);"></div>
 				<h1 id="colorlib-logo"><a href="index.html">LUCHMUN Dylan</a></h1>
 				<span class="position"><a href="#">Développeur/Intégrateur <br />Web Fullstack</span>
 			</div>
@@ -127,6 +127,7 @@
 										<h2 class="colorlib-heading">Qui suis-je ?</h2>
 										<p><strong>Bonjour et bienvenue sur mon portfolio.</strong> Je m'appel LUCHMUN Dylan, 22 ans et développeur passionné dans le domaine du web depuis bientôt trois ans. Je suis en cours de validation de mon bachelor développement web & d'application mobile en alternance.  </p>
 										<p>De même, j'ai eu l'occasion d'exercer mes compétences au sein d'une société auxquels, j'ai pu participer à la refonte d'un site internet. Je m'adapte à toutes technologies assez rapidement.</p>
+										<p>Dès septembre 2020, je serai en pleine préparation pour valider mon master de CTO & Tech Lead au sein de l'EEMI. Ces deux dernières années se feront en alternance avec la société Ordipat.</p>
 									</div>
 								</div>
 							</div>
