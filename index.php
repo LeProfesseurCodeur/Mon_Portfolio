@@ -727,7 +727,7 @@
 									<i class="icon-map"></i>
 								</div>
 								<div class="colorlib-text">
-									<p>98 rue des Haies, <br /> Paris 75020</p>
+									<p>98 rue des *****, <br /> Paris 75000</p>
 								</div>
 							</div>
 
@@ -736,7 +736,7 @@
 									<i class="icon-phone"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="tel://">06 17 87 62 96</a></p>
+									<p><a href="tel://">06 17 87 ** **</a></p>
 								</div>
 							</div>
 						</div>
